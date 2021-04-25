@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dat27595
 - 👀 I’m interested in learning Machine Learning
 - 🌱 I’m currently learning some basic algorithms about ML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently working as Treasury Dealer at SeABank
 - 📫 How to reach me: datphamtien27595@gmail.com/ https://www.linkedin.com/in/dat-pham-b2a32a9a/
 
 <!---
